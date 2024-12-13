@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+table{
+	border:1px solid black ;
+	border-collapse: collapse;
+}
+#heading{
+	background-color:#d00517;
+	color:white
+}
+#r1{
+	background-color:#ff8f8f;
+	color:white;
+}
+#r2{
+	background-color:#ffd6d6;
+}
+#r3{
+	background-color:lightsteelblue
+}
